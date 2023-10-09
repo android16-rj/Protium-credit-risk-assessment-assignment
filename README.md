@@ -11,5 +11,7 @@ The aim of the problem is to foresee whether a client will fail to honor their l
 
 ## Data:
 Column ID as an Identifier
+
 Column "Default" as Y variable
+
 Rest of the columns as X Variable
